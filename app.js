@@ -11,6 +11,13 @@ const ImageGrid = {
   methods: {
     makeFeatured(index) {
       this.featuredItem = this.gridItems[index];
+    },
+    isActive(item) {
+      if (item == this.featuredItem) {
+        return true;
+      } else {
+        return false;
+      }
     }
   },
   mounted: function() {
@@ -24,6 +31,7 @@ const ImageGrid = {
       <div v-for="(item, index) in gridItems"
            v-on:click="makeFeatured(index)"
            class="grid-item"
+           v-bind:class="{active: isActive(item)}"
            v-bind:style="{backgroundImage: 'url(' + item.filename + ')' }">
         <p class="img-source">{{ item.source }}</p>
       </div>
