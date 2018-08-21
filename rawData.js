@@ -146,7 +146,7 @@ const rawData = [
   "title": "(MFA 1993) Alumni Leader",
   "text": "<p><strong>Describe your art practice.</strong></p>  <p>I make mixed-media sculpture and works on paper, in particular collages that incorporate hand sewing and vintage notions.</p>    <p><strong>￼What did you learn at SAIC that you carry with you today?</strong></p>  <p>The medium is the message. Be thoughtful about the materials and processes you use as they can and should support your message and content.</p>    <p><strong>What did your financial support as a student mean  to you?</strong></p>  <p>I was thrilled to be recognized for my work when I received the scholarship, and then upon graduation, words cannot express how incredible it was to leave school without loans or debt.</p>",
   "quote":"What we make has the power to inspire action and contemplation; it sparks emotions and the unexpected; it makes one think and feel and reflect.",
-  "filename": "maclean.jpg"
+  "filename": "selekman.jpg"
 },
 {
   "name": "Bill and Stephanie Sick",
