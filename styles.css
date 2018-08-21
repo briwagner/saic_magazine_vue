@@ -2,3 +2,80 @@
   max-width: 720px;
   background-color: aqua;
 }
+
+.grid-container {
+  width: 80%;
+  margin: 0 10%;
+}
+
+.image-grid {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.grid-item {
+  width: 33%;
+  /* TODO: this cannot stay fixed */
+  height: 240px;
+  background-size: cover;
+}
+
+.grid-item p {
+  position: relative;
+  top: 180px;
+  left: 8px;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  display: inline-block;
+  padding: 4px 6px;
+}
+
+.landscape-row {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.landscape-row .row-img {
+  width: 70%;
+}
+
+.landscape-row .row-text {
+  width: 30%;
+}
+
+.half-row {
+  width: 80%;
+  margin: 0 10%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.half-row .row-img,
+.half-row .row-text {
+  width: 50%;
+}
+
+.row-img img {
+  width: 100%;
+  height: auto;
+}
+
+.portrait-row {
+  width: 70%;
+  margin: 0 15%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.portrait-row .row-img,
+.portrait-row .row-text {
+  width: 50%;
+}
+
+/*****************/
+/* Text Elements */
+/*****************/
+.img-source {
+  font-size: .8em;
+}
