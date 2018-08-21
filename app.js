@@ -33,7 +33,7 @@ const ImageGrid = {
            class="grid-item"
            v-bind:class="{active: isActive(item)}"
            v-bind:style="{backgroundImage: 'url(' + item.filename + ')' }">
-        <p class="img-source">{{ item.source }}</p>
+        <p class="img-source" v-if="item.source">{{ item.source }}</p>
       </div>
     </div>
     <div class="grid-featured" v-show="featuredItem">
@@ -51,18 +51,28 @@ const ImageGrid = {
 // 80-20 item
 const LandscapeRow = {
   name: 'landscape-row',
-  props: ['item'],
+  props: ['item', 'position'],
+  data() {
+    return {
+      position: 'left'
+    }
+  },
   template:`
   <div class="landscape-row">
-    <div class="row-img">
+    <div v-if="position != 'right'"
+         class="row-img">
       <img v-bind:src="item.filename" />
     </div>
     <div class="row-text">
       <h4>{{item.name}}</h4>
-      <p><strong>{{item.title}}</strong></p>
+      <p v-if="item.title"><strong>{{item.title}}</strong></p>
       <div v-html="item.text"> </div>
       <p class="quote-block">{{item.quote}}</p>
       <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
+    </div>
+    <div v-if="position == 'right'"
+         class="row-img">
+      <img v-bind:src="item.filename" />
     </div>
   </div>
   `
@@ -87,6 +97,7 @@ const HalfHalfRow = {
       <h4>{{item.name}}</h4>
       <p><strong>{{item.title}}</strong></p>
       <div v-html="item.text"> </div>
+      <p class="quote-block">{{item.quote}}</p>
       <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
     </div>
     <div v-if="position == 'right'"
@@ -100,7 +111,12 @@ const HalfHalfRow = {
 // Portrait height row
 const PortraitRow = {
   name: 'portrait-row',
-  props: ['item'],
+  props: ['item', 'position'],
+  data() {
+    return {
+      position: 'left'
+    }
+  },
   template: `
   <div class="portrait-row">
     <div class="row-img">
@@ -108,7 +124,7 @@ const PortraitRow = {
     </div>
     <div class="row-text">
       <h4>{{item.name}}</h4>
-      <p><strong>{{item.title}}</strong></p>
+      <p v-if="item.title"><strong>{{item.title}}</strong></p>
       <div v-html="item.text"> </div>
       <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
     </div>
@@ -131,17 +147,50 @@ const App = {
   },
   computed: {
     firstGrid: function() {
-      let gridItems = rawData.slice(2, 6);
+      let gridItems = rawData.slice(3, 7);
+      gridItems.push(rawData[8]);
+      gridItems.push(rawData[9]);
+      gridItems.push(rawData[11]);
+      gridItems.push(rawData[12]);
+      gridItems.push(rawData[13]);
       return gridItems;
+    },
+    secondGrid: function() {
+      return rawData.slice(14, 23)
+    },
+    thirdGrid: function() {
+      let gridItems = rawData.slice(26, 29)
+      gridItems.push(rawData[30]);
+      gridItems.push(rawData[31]);
+      gridItems.push(rawData[32]);
+      gridItems.push(rawData[33]);
+      gridItems.push(rawData[34]);
+      gridItems.push(rawData[35]);
+      return gridItems;
+    },
+    fourthGrid: function() {
+      return rawData.slice(38, 44);
     }
   },
   template: `
   <div>
     <portrait-row :item="rawData[0]" />
     <landscape-row :item="rawData[1]" />
-    <image-grid :gridItems="firstGrid" />
     <half-half-row :item="rawData[2]" :position="'right'"/>
-    <half-half-row :item="rawData[3]"/>
+    <image-grid :gridItems="firstGrid" />
+    <half-half-row :item="rawData[7]" :position="'right'"/>
+    <landscape-row :item="rawData[10]" />
+    <image-grid :gridItems="secondGrid" />
+    <half-half-row :item="rawData[23]" />
+    <half-half-row :item="rawData[24]" :position="'right'"/>
+    <portrait-row :item="rawData[25]" />
+    <landscape-row :item="rawData[29]" :position="'right'"/>
+    <image-grid :gridItems="thirdGrid" />
+    <portrait-row :item="rawData[36]" />
+    <landscape-row :item="rawData[37]" />
+    <image-grid :gridItems="fourthGrid" />
+    <half-half-row :item="rawData[44]" />
+    <half-half-row :item="rawData[45]" :position="'right'"/>
   </div>`
 }
 
