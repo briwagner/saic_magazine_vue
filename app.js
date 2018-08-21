@@ -1,3 +1,7 @@
+import data from './rawData.json';
+
+let rawData = data.people;
+
 rawData.map((x) => x.filename = 'images/' + x.filename)
 
 const ImageGrid = {
@@ -134,11 +138,7 @@ const PortraitRow = {
 
 const App = {
   name: 'app',
-  data() {
-    return {
-      title: 'SAIC Magazine'
-    }
-  },
+  props: ['rawData'],
   components: {
     ImageGrid,
     LandscapeRow,
@@ -147,7 +147,7 @@ const App = {
   },
   computed: {
     firstGrid: function() {
-      let gridItems = rawData.slice(3, 7);
+      let gridItems = this.rawData.slice(3, 7);
       gridItems.push(rawData[8]);
       gridItems.push(rawData[9]);
       gridItems.push(rawData[11]);
@@ -156,10 +156,10 @@ const App = {
       return gridItems;
     },
     secondGrid: function() {
-      return rawData.slice(14, 23)
+      return this.rawData.slice(14, 23)
     },
     thirdGrid: function() {
-      let gridItems = rawData.slice(26, 29)
+      let gridItems = this.rawData.slice(26, 29)
       gridItems.push(rawData[30]);
       gridItems.push(rawData[31]);
       gridItems.push(rawData[32]);
@@ -169,7 +169,7 @@ const App = {
       return gridItems;
     },
     fourthGrid: function() {
-      return rawData.slice(38, 44);
+      return this.rawData.slice(38, 44);
     }
   },
   template: `
@@ -197,5 +197,10 @@ const App = {
 new Vue({
   el: '#mag-app',
   components: {App},
-  template: '<app />'
+  data() {
+    return {
+      rawData
+    }
+  },
+  template: '<app :rawData="rawData"/>'
 })

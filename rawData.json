@@ -1,4 +1,5 @@
-const rawData = [
+{
+  "people": [
 {
   "name": "Elissa Tenny",
   "title": "President",
@@ -324,3 +325,4 @@ const rawData = [
   "filename": "sinha.jpg"
 }
 ]
+}
