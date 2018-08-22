@@ -1,3 +1,4 @@
+/* App main container */
 .mag-wrapper {
   font-size: 12px;
   padding: 20px 0px;
@@ -5,16 +6,52 @@
   margin: 0 auto;
 }
 
+/* Row type containers */
 .grid-container,
 .landscape-row,
 .portrait-row,
+.half-row,
+.selector-row {
+  margin-top: 1.5em;
+  margin-bottom: 40px;
+}
+
+.landscape-row,
+.selector-row,
+.portrait-row,
 .half-row {
-  margin: 1.5em 0;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.selector-row {
+  width: 98%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.portrait-row,
+.half-row {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .grid-container {
   width: 98%;
-  margin: 0 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.landscape-row {
+  width: 100%;
+}
+
+/* Row sub-elements */
+.selector-row .row-img,
+.selector-row .selector-list {
+  width: 49%;
+  margin: 0 .5%;
 }
 
 .image-grid {
@@ -42,7 +79,8 @@
   width: 99%;
 }
 
-.grid-featured .featured-title {
+.grid-featured .featured-title,
+.selector-row .selector-selected {
   width: 100%;
   float: left;
   padding: 0px 12px;
@@ -57,23 +95,12 @@
   border: 1px solid #e8e8e8;
 }
 
-.landscape-row {
-  width: 100%;
-  display: flex;
-  flex-flow: row wrap;
-}
-
 .landscape-row .row-img {
   width: 70%;
 }
 
 .landscape-row .row-text {
   width: 30%;
-}
-
-.half-row {
-  display: flex;
-  flex-flow: row wrap;
 }
 
 .half-row .row-img,
@@ -86,19 +113,29 @@
   height: auto;
 }
 
-.portrait-row {
-  display: flex;
-  flex-flow: row wrap;
-}
-
-.portrait-row, .half-row {
-  width: 90%;
-  margin: 0 5%;
-}
-
 .portrait-row .row-img,
 .portrait-row .row-text {
   width: 50%;
+}
+
+.selector-list-options {
+  list-style: none;
+  padding: 0;
+}
+
+.selector-list-options li {
+  display: inline-block;
+  width: 45%;
+  border: 1px solid #7e7e7e;
+  border-radius: 4px;
+  margin: 1%;
+  padding: 8px 5px;
+  text-align: center;
+  font-size: .85em;
+}
+
+.selector-list-options li.active {
+  background-color: #eee;
 }
 
 /*****************/
@@ -125,7 +162,8 @@
     color: #a5a5a5;
 }
 
-.row-text h4, .row-text p {
+.row-text h4,
+.row-text p {
     margin: 0px;
 }
 
@@ -157,10 +195,6 @@
   display: inline-block;
   font-size: .9em;
   padding: 4px 6px;
-}
-
-.portrait-row, .landscape-row, .grid-container, .half-row {
-    margin-bottom: 40px;
 }
 
 p.question {

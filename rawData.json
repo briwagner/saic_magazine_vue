@@ -262,7 +262,44 @@
 },
 {
   "name": "Walter and Shirley Massey Chicago Scholars",
-  "text": "<p class='question'>Something only artists can do?</p>  <p>Artists have the ability to express themselves in ways that others do not have access to. It is one of life’s greatest privileges. - Alejandra Vargas, Student</p>    <p class='question'>Who at SAIC inspired or challenged your outlook?</p>  <p>Martine Whitehead was such an inspiration to me. Seeing another Black woman teach a class focused on people of color and really explain race in the art world was huge for me. - Kiana Kimberly Parsons, Student</p>    <p class='question'>Describe your art practice.</p>  <p>I work between the Fiber and Material Studies and Fashion Design departments. It is informed by my background as an immigrant and my intense love and pride for my family and culture. - Whitney Hinojosa, Student</p>    <p class='question'>Student What is your dream job?</p>  <p>My dream job would be to manage and be an educator in my own community art center. - Moises Salazar</p>    <p class='question'>Something only artists can do?</p>  <p>Artists continue to engage with culture regardless of age. Even at 60+ years old, artists are still absorbing new media. - Nathaniel Knize (BA 2018)</p>    <p class='question'>What did your scholarship mean in your life?</p>  <p>It meant that the life I wanted was closer within my reach, and the grossly unequal playing field of the world was just a tad bit more level. - Amanda Mclin (BFA 2018)</p>    <p class='question'>Why did you choose SAIC?</p>  <p>SAIC’s interdisciplinary nature best fit my artistic practice and gave me a platform in which to fully express my desire to experiment both within and between mediums while encouraging me to develop the conceptual frame that defines my work. - Abdullah Quick, Student</p>    <p class='question'>Who at SAIC inspired or challenged your outlook?</p>  <p>Michael Ryan was my research teacher and constantly pushed me to do more with my art. I’d been afraid to take it in a bigger direction, but he believed in it. - Frida Paola Benitez, Student</p>    <p class='question'>Most adventurous thing you’ve done creatively?</p>  <p>On a family summer road trip that lasted seven weeks, I made a song for every state that we stayed in, which I recorded entirely on my phone. - Madeleine Aguilar, Student</p>",
+  "options": [
+    {
+      "label": "Alejandra Vargas, Student",
+      "detail": "<p class='question'>Something only artists can do?</p>  <p>Artists have the ability to express themselves in ways that others do not have access to. It is one of life’s greatest privileges.</p>"
+    },
+    {
+      "label": "Kiana Kimberly Parsons, Student",
+      "detail": "<p class='question'>Who at SAIC inspired or challenged your outlook?</p>  <p>Martine Whitehead was such an inspiration to me. Seeing another Black woman teach a class focused on people of color and really explain race in the art world was huge for me.</p>"
+    },
+    {
+      "label": "Whitney Hinojosa, Student",
+      "detail": "<p class='question'>Describe your art practice.</p>  <p>I work between the Fiber and Material Studies and Fashion Design departments. It is informed by my background as an immigrant and my intense love and pride for my family and culture.</p>"
+    },
+    {
+      "label": "Moises Salazar",
+      "detail": "<p class='question'>Student What is your dream job?</p>  <p>My dream job would be to manage and be an educator in my own community art center.</p>"
+    },
+    {
+      "label": "Nathaniel Knize (BA 2018)",
+      "detail": "<p class='question'>Something only artists can do?</p>  <p>Artists continue to engage with culture regardless of age. Even at 60+ years old, artists are still absorbing new media.</p>"
+    },
+    {
+      "label": "Amanda Mclin (BFA 2018)",
+      "detail": "<p class='question'>What did your scholarship mean in your life?</p>  <p>It meant that the life I wanted was closer within my reach, and the grossly unequal playing field of the world was just a tad bit more level.</p>"
+    },
+    {
+      "label": "Abdullah Quick, Student",
+      "detail": "<p class='question'>Why did you choose SAIC?</p>  <p>SAIC’s interdisciplinary nature best fit my artistic practice and gave me a platform in which to fully express my desire to experiment both within and between mediums while encouraging me to develop the conceptual frame that defines my work.</p>"
+    },
+    {
+      "label": "Frida Paola Benitez, Student",
+      "detail": "<p class='question'>Who at SAIC inspired or challenged your outlook?</p>  <p>Michael Ryan was my research teacher and constantly pushed me to do more with my art. I’d been afraid to take it in a bigger direction, but he believed in it.</p>"
+    },
+    {
+      "label": "Madeleine Aguilar, Student",
+      "detail": "<p class='question'>Most adventurous thing you’ve done creatively?</p>  <p>On a family summer road trip that lasted seven weeks, I made a song for every state that we stayed in, which I recorded entirely on my phone.</p>"
+    }
+  ],
   "filename": "group.jpg"
 },
 {

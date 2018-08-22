@@ -151,6 +151,59 @@ const PortraitRow = {
   `
 }
 
+const SelectorRow = {
+  name: 'selector-row',
+  props: {
+    item: Object,
+    options: Array
+  },
+  data() {
+    return {
+      featuredItem: false
+    }
+  },
+  methods: {
+    makeFeatured(index) {
+      this.featuredItem = this.options[index];
+    },
+    isActive(item) {
+      if (item == this.featuredItem) {
+        return true;
+      } else {
+        return false;
+      }
+    }
+  },
+  mounted: function() {
+    if (this.options.length > 0) {
+      this.makeFeatured(0)
+    }
+  },
+  template: `
+  <div class="selector-row">
+    <div class="row-img">
+      <progressive-img v-bind:src="item.filename" />
+    </div>
+    <div class="selector-list row-text">
+      <h4>{{item.name}}</h4>
+      <ul class="selector-list-options">
+        <li v-for="(option, index) in options"
+            v-on:click="makeFeatured(index)"
+            v-bind:class="{active: isActive(option)}">
+          {{option.label}}
+        </li>
+      </ul>
+      <p v-if="item.source">{{item.source}}</p>
+    </div>
+    <div v-show="featuredItem"
+         class="selector-selected">
+      <h5>{{featuredItem.label}}</h5>
+      <div v-html="featuredItem.detail"></div>
+    </div>
+  </div>
+  `
+}
+
 const App = {
   name: 'app',
   props: ['rawData'],
@@ -158,7 +211,8 @@ const App = {
     ImageGrid,
     LandscapeRow,
     HalfHalfRow,
-    PortraitRow
+    PortraitRow,
+    SelectorRow
   },
   computed: {
     firstGrid: function() {
@@ -202,7 +256,7 @@ const App = {
     <landscape-row :item="rawData[29]" :position="'right'"/>
     <image-grid :gridItems="thirdGrid" />
     <portrait-row :item="rawData[36]" />
-    <landscape-row :item="rawData[37]" />
+    <selector-row :item="rawData[37]" :options="rawData[37].options"/>
     <image-grid :gridItems="fourthGrid" />
     <half-half-row :item="rawData[44]" />
     <half-half-row :item="rawData[45]" :position="'right'"/>
