@@ -1,4 +1,5 @@
 import data from './rawData.json';
+import css from './styles.css';
 
 let rawData = data.people;
 
