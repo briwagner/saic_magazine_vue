@@ -79,8 +79,8 @@ const LandscapeRow = {
          class="personal-title">
          {{item.title}}
       </p>
-      <div v-html="item.text"> </div>
       <p class="quote-block">{{item.quote}}</p>
+      <div v-html="item.text"> </div>
       <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
     </div>
     <div v-if="position == 'right'"
@@ -110,8 +110,8 @@ const HalfHalfRow = {
     <div class="row-text">
       <h4>{{item.name}}</h4>
       <p class="personal-title">{{item.title}}</p>
-      <div v-html="item.text"> </div>
       <p class="quote-block">{{item.quote}}</p>
+      <div v-html="item.text"> </div>
       <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
     </div>
     <div v-if="position == 'right'"
@@ -143,6 +143,7 @@ const PortraitRow = {
          class="personal-title">
          {{item.title}}
       </p>
+      <p class="quote-block">{{item.quote}}</p>
       <div v-html="item.text"> </div>
       <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
     </div>
