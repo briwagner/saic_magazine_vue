@@ -109,14 +109,15 @@
 }
 
 .mag-wrapper h4 {
-    font-size: 1.6em;
-    padding:0px;
-    padding-bottom: 5px;
+  font-size: 1.6em;
+  padding:0px;
+  padding-bottom: 5px;
 }
 
 .mag-wrapper p {
-    padding: .2em 0em 1em;
-    margin: 0px;
+  padding: .2em 0em 1em;
+  margin: 0px;
+  font-size: 14px;
 }
 
 .mag-wrapper .image-source {
