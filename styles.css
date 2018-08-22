@@ -197,6 +197,12 @@ p.personal-title {
   font-weight: 600;
 }
 
+p.quote-block {
+  font-style: italic;
+  line-height: 1.7em;
+  padding: 5px 25px;
+}
+
 @media only screen and (max-width: 767px) {
 
   .portrait-row, .landscape-row, .grid-container, .half-row{
