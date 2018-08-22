@@ -40,6 +40,7 @@
 .grid-featured {
   display: flex;
   flex-flow: row wrap;
+
 }
 
 .featured-text {
@@ -185,11 +186,17 @@
     font-size: .9em;
 }
 
+.grid-featured {
+
+    width: 99%;
+}
+
 .grid-featured .featured-title {
     width: 100%;
     float: left;
     padding: 0px 12px;
     background: #eee;
+        margin-right: 0;
 }
 
 .grid-featured .featured-text {
