@@ -4,28 +4,28 @@
   "name": "Elissa Tenny",
   "title": "President",
   "intro": "<p>Elissa Tenny is the 15th executive and first woman to lead SAIC in its more than 150-year history. She is a career-long champion of art and design education and the liberal arts as well as an advocate of interdisciplinary practice, diversity in higher learning, and the role higher education plays in society and the world at large.</p>",
-  "text": "<p><strong>What have the artists and designers at SAIC taught you?</strong></p><p>You learn more when exploring and iterating a problem (or painting or paper) than in rushing toward a solution.</p><p><strong>Something only artists can do?</strong></p><p>Artists are not separate from society. Rather, the artist is a citizen with the same obligation as every other citizen: to use their expertise to participate in the world. What is unique about the role of the artist and designer is that their expertise has to do with vision, meaning both what we look at aesthetically and the meaning that artists reveal. The visionary creativity of artists—to be able to see something before it is there— is essential to how humanity solves its problems.</p><p><strong>SAIC’s most significant contribution to Chicago?</strong></p><p>Our students and alums. They live here, many long after graduation, making and exhibiting art, adding to our experience—both in contemplation and in play— of this great city. Our students and alums keep Chicago a dynamic, engaged center for art and design.</p>",
+  "text": "<p class='question'>What have the artists and designers at SAIC taught you?</p><p>You learn more when exploring and iterating a problem (or painting or paper) than in rushing toward a solution.</p><p class='question'>Something only artists can do?</p><p>Artists are not separate from society. Rather, the artist is a citizen with the same obligation as every other citizen: to use their expertise to participate in the world. What is unique about the role of the artist and designer is that their expertise has to do with vision, meaning both what we look at aesthetically and the meaning that artists reveal. The visionary creativity of artists—to be able to see something before it is there— is essential to how humanity solves its problems.</p><p class='question'>SAIC’s most significant contribution to Chicago?</p><p>Our students and alums. They live here, many long after graduation, making and exhibiting art, adding to our experience—both in contemplation and in play— of this great city. Our students and alums keep Chicago a dynamic, engaged center for art and design.</p>",
   "filename": "tenny.jpg",
   "quote": "Our campaign is a direct result of the entire SAIC family coming together."
 },
 {
   "name": "Mark Jeffery",
   "title": "Associate Professor, Auction Artist",
-  "text": "<p><strong>What does faculty support mean to you?</strong></p><p>The campaign dollars will allow faculty to develop our work and to showcase it locally, nationally, and internationally.</p><p><strong>Best thing about SAIC?</strong></p><p>It keeps me relevant and always with questions that sometimes don’t have answers.</p><p><strong>Dream collaborator?</strong></p><p>Madonna. She looks at what is happening right now, moves the culture forward, and as a feminist, gives artists permission to grow and take risks.</p>",
+  "text": "<p class='question'>What does faculty support mean to you?</p><p>The campaign dollars will allow faculty to develop our work and to showcase it locally, nationally, and internationally.</p><p class='question'>Best thing about SAIC?</p><p>It keeps me relevant and always with questions that sometimes don’t have answers.</p><p class='question'>Dream collaborator?</p><p>Madonna. She looks at what is happening right now, moves the culture forward, and as a feminist, gives artists permission to grow and take risks.</p>",
   "filename": "jeffery.jpg",
   "quote": "The work we make goes ￼￼￼￼￼￼￼￼￼immediately back into the classroom with what we have discovered."
 },
 {
   "name": "Aram Han Sifuentes (MFA 2013)",
   "title": "Auction Artist",
-  "text": "<p><strong>Describe your art practice.</strong></p><p>At the core of my practice, I create socially engaged and materially rich projects that aim to create an art world that is available and accessible for those who are disenfranchised, particularly for dispossessed immigrants of color.</p>",  "quote": "Sewing is my medium to investigate identity politics, immigration and immigrant labor, possession and dispossession, citizenship and belonging, dissent and protest, and race politics in the United States.",
+  "text": "<p class='question'>Describe your art practice.</p><p>At the core of my practice, I create socially engaged and materially rich projects that aim to create an art world that is available and accessible for those who are disenfranchised, particularly for dispossessed immigrants of color.</p>",  "quote": "Sewing is my medium to investigate identity politics, immigration and immigrant labor, possession and dispossession, citizenship and belonging, dissent and protest, and race politics in the United States.",
   "source": "Virginal Harold, Pulitzer Arts Foundation",
   "filename": "sifuentes.jpg"
 },
 {
   "name": "Ellen Sandor (MFA 1975, HON 2014)",
   "title": "Board of Governors",
-  "text": "<p><strong>What excites you most right now?</strong></p><p>The privilege of being able to do my art every day.</p>",
+  "text": "<p class='question'>What excites you most right now?</p><p>The privilege of being able to do my art every day.</p>",
   "quote": "Art saves, and tough art really saves.",
   "source": "Amy Creyer",
   "filename": "sandor.jpg"
@@ -33,28 +33,28 @@
 {
   "name": "Erin Pierce",
   "title": "MakeWork Council Member",
-  "text": "<p><strong>How do scholarships transform students’ lives?</strong></p><p>I’ve heard stories from many artists who might not have been able to go to SAIC at all had it not been for a scholarship grant.</p><p><strong>What have the artists and designers at SAIC taught you?</strong></p><p>Most significantly, creating requires being brave and being open. It does not always require genius. It requires intense dedication.</p><p><strong>What makes SAIC a world leader in art and design education?</strong></p><p>The passion is palpable. The thinking is robust and broad. It’s energizing, and it feeds my imagination even through in-passing interactions.</p>",
+  "text": "<p class='question'>How do scholarships transform students’ lives?</p><p>I’ve heard stories from many artists who might not have been able to go to SAIC at all had it not been for a scholarship grant.</p><p class='question'>What have the artists and designers at SAIC taught you?</p><p>Most significantly, creating requires being brave and being open. It does not always require genius. It requires intense dedication.</p><p class='question'>What makes SAIC a world leader in art and design education?</p><p>The passion is palpable. The thinking is robust and broad. It’s energizing, and it feeds my imagination even through in-passing interactions.</p>",
   "source": "Jen Dean",
   "filename": "pierce.jpg"
 },
 {
   "name": "Renluka Maharaj (MFA 2017)",
   "title": "Daniel Berger Barbara DeGenevieve Graduate Merit Scholarship Recipient",
-  "text": "<p><strong>Describe your art practice.</strong></p>  <p>I employ personal narratives from family members and friends, scholars, and religious persons.</p>    <p><strong>Why do you support SAIC?</strong></p>  <p>I support SAIC because I felt so supported as a student,and I wish to give that back.</p>    <p><strong>Advice to your younger self?</strong></p>  <p>Pursue what you love, not what makes you the most money.</p>",
+  "text": "<p class='question'>Describe your art practice.</p>  <p>I employ personal narratives from family members and friends, scholars, and religious persons.</p>    <p class='question'>Why do you support SAIC?</p>  <p>I support SAIC because I felt so supported as a student,and I wish to give that back.</p>    <p class='question'>Advice to your younger self?</p>  <p>Pursue what you love, not what makes you the most money.</p>",
   "quote": "The best advice was from a visiting artist who told me to stop looking at my work through the eye of a colonizer.",
   "filename": "maharaj.jpg"
 },
 {
   "name": "Claire Sherman (MFA 2005)",
   "title": "Auction Artist",
-  "text": "<p><strong>Something only artists can do?</strong></p>  <p>Artists communicate complex and sometimes conflicting ideas ... in an age where information is frequently conveyed in the length of a tweet.</p>",
+  "text": "<p class='question'>Something only artists can do?</p>  <p>Artists communicate complex and sometimes conflicting ideas ... in an age where information is frequently conveyed in the length of a tweet.</p>",
   "source": "Robert Banat",
   "filename": "sherman.jpg"
 },
 {
   "name": "Monique Meloche (SAIC 1991–94)",
   "title": "Alumni Leader",
-  "text": "<p><strong>Something only artists can do?</strong></p>  <p>Allow you to escape and challenge you simultaneously.</p>    <p><strong>Where do you find inspiration?</strong></p>  <p>Museums, galleries, and my garden.</p>    <p><strong>Advice to your younger self?</strong></p>  <p>It is OK to make mistakes, as they often lead to greater discoveries.</p>",
+  "text": "<p class='question'>Something only artists can do?</p>  <p>Allow you to escape and challenge you simultaneously.</p>    <p class='question'>Where do you find inspiration?</p>  <p>Museums, galleries, and my garden.</p>    <p class='question'>Advice to your younger self?</p>  <p>It is OK to make mistakes, as they often lead to greater discoveries.</p>",
   "quote": "The SAIC network keeps on giving—many of our artists and countless past and current staff and interns are alums.",
   "filename": "meloche.jpg"
 },
@@ -62,7 +62,7 @@
   "name": "Maria Pinto (BFA 1990, HON 2017)",
   "title": "Alumni Leader",
   "intro": "Maria Pinto is renowned for her minimalist, sculptural designs that pull from the architectures found in both the human and natural worlds. Pinto served on the planning committee for the Beautiful/Night benefit and art auction supporting student scholarships, which raised more than $620,000.",
-  "text": "<p><strong>Describe your art practice.</strong></p>  <p>I have two creative paths; my art gives me creative expression with no boundaries, whereas elements of my fashion must meet the vision of the brand.</p>",
+  "text": "<p class='question'>Describe your art practice.</p>  <p>I have two creative paths; my art gives me creative expression with no boundaries, whereas elements of my fashion must meet the vision of the brand.</p>",
   "quote":"Our work becomes an extension of creative expression that is hard to achieve otherwise.",
   "source": "Yuya Ohahshi",
   "filename": "pinto.jpg"
@@ -70,14 +70,14 @@
 {
   "name": "Vincent Uribe (BA, BFA 2013)",
   "title": "Alumni Leader",
-  "text": "<p><strong>Describe your art practice.</strong></p>  <p>My art practice has transformed into curating and art direction in order to expose new work and bring people together.</p>    <p><strong>Something only artists can do?</strong></p>  <p>Create meaning from nothing.</p>",
+  "text": "<p class='question'>Describe your art practice.</p>  <p>My art practice has transformed into curating and art direction in order to expose new work and bring people together.</p>    <p class='question'>Something only artists can do?</p>  <p>Create meaning from nothing.</p>",
   "filename": "uribe.jpg"
 },
 {
   "name": "Nick Cave",
   "title": "Stephanie and Bill Sick Professor of Fashion, Body and Garment",
   "intro": "Celebrated for his iconic Soundsuits, artist and designer Nick Cave has been a faculty member at SAIC for more than 25 years and played a critical role in establishing the School’s graduate program in Fashion Design. Cave received an endowed professorship and donated Soundsuit, 2012, which fetched the highest donation at the School’s Beautiful/Night auction in support of student scholarships.",
-  "text": "<p><strong>Why give back?</strong></p>  <p>I give back because someone helped me. I was an artist from the grassroots—struggling. But in that struggle, there’s an essence of creative empowerment.</p>    <p><strong>How do scholarships transform students’ lives?</strong></p>  <p>Scholarships help build support and structure so we can assist these creative people.</p>",
+  "text": "<p class='question'>Why give back?</p>  <p>I give back because someone helped me. I was an artist from the grassroots—struggling. But in that struggle, there’s an essence of creative empowerment.</p>    <p class='question'>How do scholarships transform students’ lives?</p>  <p>Scholarships help build support and structure so we can assist these creative people.</p>",
   "quote":"Art has always been my savior. It’s the place that I’ve always been able to go to express my emotions.",
   "source": "Sandro",
   "filename": "cave.jpg"
@@ -85,123 +85,123 @@
 {
   "name": "Cheryl Jessogne (MA 1999)",
   "title": "Vice President, Institutional Advancement",
-  "text": "<p><strong>Campaign outcome that you’re proud of?</strong></p><p>The magnitude of generosity from SAIC’s community has made possible more than 30 new scholarship funds, new endowed professorships, our first-ever awards to part- time faculty, the College Arts Access Program, and the Walter and Shirley Massey Scholars. All of these gifts make a direct impact on the lives of individuals through this campaign.</p>",
+  "text": "<p class='question'>Campaign outcome that you’re proud of?</p><p>The magnitude of generosity from SAIC’s community has made possible more than 30 new scholarship funds, new endowed professorships, our first-ever awards to part- time faculty, the College Arts Access Program, and the Walter and Shirley Massey Scholars. All of these gifts make a direct impact on the lives of individuals through this campaign.</p>",
   "quote":"Artists have the capacity to leave an indelible mark on the heart, mind, and soul—the power to connect community through the shared human experience. Their voice makes a difference.",
   "filename": "jessogne.jpg"
 },
 {
   "name": "Michelle Grabner",
   "title": "Crown Family Professor in Painting and Drawing",
-  "text": "<p><strong>What does faculty support mean to you?</strong></p>  <p>It means that I am proudly ensconced in an institution that supports my work and the work of my colleagues.</p>    <p><strong>Best thing about SAIC?</strong></p>  <p>The determination of our undergraduates.</p>    <p><strong>Dream collaborator?</strong></p>  <p>Today, Stuart Davis, for his direct paint application, design, and critical engagement with media. Tomorrow, I would do stained glass with my former student Jessica Jackson Hutchins (Post-Bac 1997, MFA 1999).</p>",
+  "text": "<p class='question'>What does faculty support mean to you?</p>  <p>It means that I am proudly ensconced in an institution that supports my work and the work of my colleagues.</p>    <p class='question'>Best thing about SAIC?</p>  <p>The determination of our undergraduates.</p>    <p class='question'>Dream collaborator?</p>  <p>Today, Stuart Davis, for his direct paint application, design, and critical engagement with media. Tomorrow, I would do stained glass with my former student Jessica Jackson Hutchins (Post-Bac 1997, MFA 1999).</p>",
   "quote":"Art is the evidence of our imagination.",
   "filename": "grabner.jpg"
 },
 {
   "name": "Olivia Gude",
   "title": "Angela Paterakis Professor in Art Education",
-  "text": "<p><strong>What does faculty support mean to you?</strong></p><p>It allows me to engage in national and international discourses about the role of arts education in shaping democratic societies.</p>",
+  "text": "<p class='question'>What does faculty support mean to you?</p><p>It allows me to engage in national and international discourses about the role of arts education in shaping democratic societies.</p>",
   "filename": "gude.jpg"
 },
 {
   "name": "Almudena Caso Burbano",
   "title": "Pritzker Graduate Fellowship Recipient",
-  "text": "<p><strong>What did you learn at SAIC that you carry with you today?</strong></p>  <p>To think critically about everything.</p>    <p><strong>Where do you find inspiration?</strong></p>  <p>I dance in my kitchen. I look at the people who I believe are superhumans, check what they are doing, and go to exhibitions alone.</p>    <p><strong>Advice to your younger self?</strong></p>  <p>Don’t think too much; go for it. Follow your instinct.</p>",
+  "text": "<p class='question'>What did you learn at SAIC that you carry with you today?</p>  <p>To think critically about everything.</p>    <p class='question'>Where do you find inspiration?</p>  <p>I dance in my kitchen. I look at the people who I believe are superhumans, check what they are doing, and go to exhibitions alone.</p>    <p class='question'>Advice to your younger self?</p>  <p>Don’t think too much; go for it. Follow your instinct.</p>",
   "quote":"Imagine the world in new ways, bring critical questions to the table, make politics through poetics.",
   "filename": "burbano.jpg"
 },
 {
   "name": "Diane Simpson (BFA 1971, MFA 1978)",
   "title": "Auction Artist",
-  "text": "<p><strong>What did you learn at SAIC that you carry with you today?</strong></p> I learned that inspiration doesn’t come <p>from outer space or thin air. Resources for new ideas or new forms are close at hand, you just have to keep eyes and mind open and be willing to do the research.</p>",
+  "text": "<p class='question'>What did you learn at SAIC that you carry with you today?</p> I learned that inspiration doesn’t come <p>from outer space or thin air. Resources for new ideas or new forms are close at hand, you just have to keep eyes and mind open and be willing to do the research.</p>",
   "source": "Ken Simpson",
   "filename": "simpson.jpg"
 },
 {
   "name": "John Petrakis",
   "title": "Adjunct Associate Professor, Karen and Jim Frank Excellence in Teaching Award Recipient",
-  "text": "<p><strong>What have your students taught you?</strong></p>  <p>Never to assume that a student won’t succeed just because they are slow out of the gate. Some of my best screenwriters have been those who stumbled before finding their footing.</p>    <p><strong>How do scholarships transform students’ lives?</strong></p>  <p>Scholarships make it easier for students to stay focused on their studies without having to work outside jobs. I am a purist when it comes to education. When you are in school, you should be allowed to listen and learn full-time.</p>",
+  "text": "<p class='question'>What have your students taught you?</p>  <p>Never to assume that a student won’t succeed just because they are slow out of the gate. Some of my best screenwriters have been those who stumbled before finding their footing.</p>    <p class='question'>How do scholarships transform students’ lives?</p>  <p>Scholarships make it easier for students to stay focused on their studies without having to work outside jobs. I am a purist when it comes to education. When you are in school, you should be allowed to listen and learn full-time.</p>",
   "quote":"The best thing about practicing art in Chicago is the balance the hulking city provides, where artists are respected, but not venerated, which allows them to continue to innovate and improvise.",
   "filename": "petrakis.jpg"
 },
 {
   "name": "Erina Shibata (Post-Bac 2014, MFA 2016)",
   "title": "Alumni Leader",
-  "text": "<p><strong>Why do you support SAIC?</strong></p><p>I continue to support SAIC because I value all that I learned from being a student there and want to continue sharing what I learned with others.</p><p><strong>Best takeaway from a critique?</strong></p><p>During an advising session, I told my advisor (Richard Hull) that I had torn up a series of my old drawings. His response was: “Good for you!” That was amazing to hear.</p>",
+  "text": "<p class='question'>Why do you support SAIC?</p><p>I continue to support SAIC because I value all that I learned from being a student there and want to continue sharing what I learned with others.</p><p class='question'>Best takeaway from a critique?</p><p>During an advising session, I told my advisor (Richard Hull) that I had torn up a series of my old drawings. His response was: “Good for you!” That was amazing to hear.</p>",
   "quote":"My most immediate source of inspiration is from looking at the details of my surrounding space.",
   "filename": "shibata.jpg"
 },
 {
   "name": "Daniel Berger",
   "title": "Board of Governors",
-  "text": "<p><strong>Favorite work at the Art Institute of Chicago museum?</strong></p>  <p>Sometimes it’s not necessarily singular pieces but a well curated room can create an emotional meaning far greater.</p>    <p><strong>Accomplishment you are most proud of?</strong></p>  <p>I’m very proud of my work in the field of HIV/AIDS. Much of my early research work helped pave the way toward developing life-saving treatments.</p>",
+  "text": "<p class='question'>Favorite work at the Art Institute of Chicago museum?</p>  <p>Sometimes it’s not necessarily singular pieces but a well curated room can create an emotional meaning far greater.</p>    <p class='question'>Accomplishment you are most proud of?</p>  <p>I’m very proud of my work in the field of HIV/AIDS. Much of my early research work helped pave the way toward developing life-saving treatments.</p>",
   "filename": "berger.jpg"
 },
 {
   "name": "Margaret MacLean",
   "title": "Board of Governors",
-  "text": "<p><strong>What have the artists and designers at SAIC taught you?</strong></p>  <p>That there are no limits to creativity and that diversity feeds creativity.</p>    <p><strong>How do art and design impact you?</strong></p>  <p>Art encourages and inspires me to move beyond boundaries.</p>    <p><strong>SAIC’s most significant contribution to Chicago?</strong></p>  <p>A flourishing arts institution that ranks among the top fine arts graduate and undergraduate programs in the world and has been part of Chicago’s creative landscape since 1866.</p>",
+  "text": "<p class='question'>What have the artists and designers at SAIC taught you?</p>  <p>That there are no limits to creativity and that diversity feeds creativity.</p>    <p class='question'>How do art and design impact you?</p>  <p>Art encourages and inspires me to move beyond boundaries.</p>    <p class='question'>SAIC’s most significant contribution to Chicago?</p>  <p>A flourishing arts institution that ranks among the top fine arts graduate and undergraduate programs in the world and has been part of Chicago’s creative landscape since 1866.</p>",
   "filename": "maclean.jpg"
 },
 {
   "name": "Rachel Selekman",
   "title": "(MFA 1993) Alumni Leader",
-  "text": "<p><strong>Describe your art practice.</strong></p>  <p>I make mixed-media sculpture and works on paper, in particular collages that incorporate hand sewing and vintage notions.</p>    <p><strong>￼What did you learn at SAIC that you carry with you today?</strong></p>  <p>The medium is the message. Be thoughtful about the materials and processes you use as they can and should support your message and content.</p>    <p><strong>What did your financial support as a student mean  to you?</strong></p>  <p>I was thrilled to be recognized for my work when I received the scholarship, and then upon graduation, words cannot express how incredible it was to leave school without loans or debt.</p>",
+  "text": "<p class='question'>Describe your art practice.</p>  <p>I make mixed-media sculpture and works on paper, in particular collages that incorporate hand sewing and vintage notions.</p>    <p class='question'>￼What did you learn at SAIC that you carry with you today?</p>  <p>The medium is the message. Be thoughtful about the materials and processes you use as they can and should support your message and content.</p>    <p class='question'>What did your financial support as a student mean  to you?</p>  <p>I was thrilled to be recognized for my work when I received the scholarship, and then upon graduation, words cannot express how incredible it was to leave school without loans or debt.</p>",
   "quote":"What we make has the power to inspire action and contemplation; it sparks emotions and the unexpected; it makes one think and feel and reflect.",
   "filename": "selekman.jpg"
 },
 {
   "name": "Bill and Stephanie Sick",
   "title": "Board of Governors",
-  "text": "<p><strong>What have the artists and designers at SAIC taught you?</strong></p>  <p>Working with faculty from SAIC has helped me not only more deeply respect the art, but the artist and the deep effort they put into their work.</p>    <p><strong>What accomplishment are you most proud of?</strong></p>  <p>I am most proud of the Bill and Stephanie Sick Distinguished Visiting Professorship. It has been a great experience to meet practicing artists who are making an impact on their areas of study and on greater society.</p>    <p><strong>Favorite work in the Art Institute of Chicago museum?</strong></p>  <p>I love American Gothic. As a girl who grew up in the plains ￼￼￼of Oklahoma, the topic speaks to me and reminds me of my childhood.</p>",
+  "text": "<p class='question'>What have the artists and designers at SAIC taught you?</p>  <p>Working with faculty from SAIC has helped me not only more deeply respect the art, but the artist and the deep effort they put into their work.</p>    <p class='question'>What accomplishment are you most proud of?</p>  <p>I am most proud of the Bill and Stephanie Sick Distinguished Visiting Professorship. It has been a great experience to meet practicing artists who are making an impact on their areas of study and on greater society.</p>    <p class='question'>Favorite work in the Art Institute of Chicago museum?</p>  <p>I love American Gothic. As a girl who grew up in the plains ￼￼￼of Oklahoma, the topic speaks to me and reminds me of my childhood.</p>",
   "quote":"Work ethic, caring for one’s significant others, business savvy, having the right connections, and a lot of long hours is what it takes to create wonderful, thought provoking, and life changing art.",
   "filename": "sick.jpg"
 },
 {
   "name": "Carrie Schneider (MFA 2007) and Ben Fain (MFA 2008)",
   "title": "Auction Artists",
-  "text": "<p><strong>What did you learn at SAIC that you carry with you today?</strong></p>  <p>The friendships I formed at SAIC are still an enormous part of my everyday—and not just because I married a fellow alum! Ben and I didn’t know each other when we were students, oddly enough. But my SAIC circle continues to grow, even 10 years later.</p>",
+  "text": "<p class='question'>What did you learn at SAIC that you carry with you today?</p>  <p>The friendships I formed at SAIC are still an enormous part of my everyday—and not just because I married a fellow alum! Ben and I didn’t know each other when we were students, oddly enough. But my SAIC circle continues to grow, even 10 years later.</p>",
   "quote": "I remember realizing I wanted to be an artist as a teenager while standing in front of [Georgia O’Keeffe’s] Black Cross, New Mexico painting at the Art Institute of Chicago.",
   "filename": "schneider.jpg"
 },
 {
   "name": "Judd Morrissey",
   "title": "Assistant Professor, Auction Artist",
-  "text": "<p><strong>Why Chicago?</strong></p>  <p>Because Chicago is closer to the middle of the country than the coasts, it becomes a vortex of diverse winds of influence and a generator of innovative hybrid forms and in-between practices.</p>    <p><strong>What have your students taught you?</strong></p>  <p>My students have become my collaborators and colleagues, and we’ve benefited from a creative exchange that takes place both between unique individuals and across different generations, an essential conversation in a time of cultural and technological acceleration that also relies upon an understanding of history.</p>  <p><strong>Best thing about SAIC?</strong></p>  <p>The ethos of interdisciplinarity and the ongoing generation of new forms and experimental hybridities is the unique soul of the School.</p>",
+  "text": "<p class='question'>Why Chicago?</p>  <p>Because Chicago is closer to the middle of the country than the coasts, it becomes a vortex of diverse winds of influence and a generator of innovative hybrid forms and in-between practices.</p>    <p class='question'>What have your students taught you?</p>  <p>My students have become my collaborators and colleagues, and we’ve benefited from a creative exchange that takes place both between unique individuals and across different generations, an essential conversation in a time of cultural and technological acceleration that also relies upon an understanding of history.</p>  <p class='question'>Best thing about SAIC?</p>  <p>The ethos of interdisciplinarity and the ongoing generation of new forms and experimental hybridities is the unique soul of the School.</p>",
   "quote":"Scholarships enable students to have an incomparable arts education.",
   "filename": "morrissey.jpg"
 },
 {
   "name": "Neal Sales-Griffin",
   "title": "Board of Governors, Co-Chair of MakeWork Council",
-  "text": "<p><strong>Accomplishment you are most proud of?</strong></p><p>Disrupting education by helping create a new model for people to learn technology skills.</p>",
+  "text": "<p class='question'>Accomplishment you are most proud of?</p><p>Disrupting education by helping create a new model for people to learn technology skills.</p>",
   "quote":"Artistry and creativity are not mutually exclusive from business and entrepreneurship.",
   "filename": "griffin.jpg"
 },
 {
   "name": "Dawn Gavin",
   "title": "Smith-Buonanno Family Director of Contemporary Practices and Interim Dean of Undergraduate Studies",
-  "text": "<p><strong>What does faculty support mean to you?</strong></p>  <p>It can mean the difference between realizing a project and merely speculating on it.</p>    <p><strong>How do scholarships transform students’ lives?</strong></p>  <p>Scholarships not only give students the tools and resources to extend their abilities, but are also a confirmation of our belief in their capacity to succeed. Students in turn transform us.</p>",
+  "text": "<p class='question'>What does faculty support mean to you?</p>  <p>It can mean the difference between realizing a project and merely speculating on it.</p>    <p class='question'>How do scholarships transform students’ lives?</p>  <p>Scholarships not only give students the tools and resources to extend their abilities, but are also a confirmation of our belief in their capacity to succeed. Students in turn transform us.</p>",
   "quote":"Art matters because it exists at the edges of what is possible, where imagination turns into action and opportunity. It gives us the capacity to see ourselves and the world anew.",
   "filename": "gavin.jpg"
 },
 {
   "name": "william cordova (BFA 1996)",
   "title": "Auction Artist",
-  "text": "<p><strong>Something only artists can do?</strong></p>  <p>Capture the tenor of the times and provoke change.</p>  <p><strong>Advice to your younger self?</strong></p>  <p>Integrity is everything.</p>",
+  "text": "<p class='question'>Something only artists can do?</p>  <p>Capture the tenor of the times and provoke change.</p>  <p class='question'>Advice to your younger self?</p>  <p>Integrity is everything.</p>",
   "source": "courtesy of william cordova",
   "filename": "cordova.jpg"
 },
 {
   "name": "Ying Cui (MDes 2017)",
   "title": "Margot and Thomas Pritzker Scholarship Recipient",
-  "text": "<p><strong>Why do you support SAIC?</strong></p>  <p>The School gave me a good chance to develop myself, so I am always looking for opportunities to support SAIC in return.</p>    <p><strong>Where do you find inspiration?</strong></p>  <p>I like to find inspiration in people’s unconscious behavior habits.</p>",
+  "text": "<p class='question'>Why do you support SAIC?</p>  <p>The School gave me a good chance to develop myself, so I am always looking for opportunities to support SAIC in return.</p>    <p class='question'>Where do you find inspiration?</p>  <p>I like to find inspiration in people’s unconscious behavior habits.</p>",
   "quote":"Don’t be shy to say what you think, even if it may be wrong; because most of what I learned comes from criticism.",
   "filename": "cui.jpg"
 },
 {
   "name": "Jan Tichy (MFA 2009)",
   "title": "Assistant Professor, Auction Artist",
-  "text": "<p><strong>What have you learned from your students?</strong></p>  <p>How to operate social media.</p>    <p><strong>What is the best thing about teaching at SAIC?</strong></p>  <p>The ability to give my students access to so many resources that enable them to implement in many different ways what I teach in the classroom.</p>    <p><strong>Favorite spot in Chicago?</strong></p>  <p>Alfred Caldwell’s Lily Pond.</p>",
+  "text": "<p class='question'>What have you learned from your students?</p>  <p>How to operate social media.</p>    <p class='question'>What is the best thing about teaching at SAIC?</p>  <p>The ability to give my students access to so many resources that enable them to implement in many different ways what I teach in the classroom.</p>    <p class='question'>Favorite spot in Chicago?</p>  <p>Alfred Caldwell’s Lily Pond.</p>",
   "quote":"Scholarships allow students to focus on the transformation itself–on getting the knowledge and being able to operate it.",
   "filename": "tichy.jpg"
 },
@@ -209,7 +209,7 @@
   "name": "Angel Otero (BFA 2007, MFA 2009)",
   "title": "Auction Artist",
   "intro": "Brooklyn-based artist Angel Otero is best known for his innovative process-based paintings that involve scraping dried oil paint off glass and reconfiguring it into new compositions across canvases. Solo exhibitions of Otero’s work have been organized at museums and galleries across the United States and internationally, and his work appears in the permanent collections of many museums.",
-  "text": "<p><strong>What did your financial support as a student mean to you?</strong></p>  <p>I received a half scholarship for my undergrad years, and a full scholarship for my graduate years. They were both very meaningful, not only because of the economic support but because it gave me extra confidence that I had support toward my work from such an institution.</p>    <p><strong>Best takeaway from a critique?</strong></p>  <p>Good art should have a problem.</p>    <p><strong>Advice to your younger self?</strong></p>  <p>Work harder and don’t give up.</p>",
+  "text": "<p class='question'>What did your financial support as a student mean to you?</p>  <p>I received a half scholarship for my undergrad years, and a full scholarship for my graduate years. They were both very meaningful, not only because of the economic support but because it gave me extra confidence that I had support toward my work from such an institution.</p>    <p class='question'>Best takeaway from a critique?</p>  <p>Good art should have a problem.</p>    <p class='question'>Advice to your younger self?</p>  <p>Work harder and don’t give up.</p>",
   "quote":"I think inspiration is everywhere, and it’s hyst knowing how to react when you recognize it",
   "source": "Elisabeth Bernstein. Courtesy of the artist and Lehmann Maupin, New York and Hong Kong",
   "filename": "otero.jpg"
@@ -217,39 +217,39 @@
 {
   "name": "Brian Fabry Dorsam",
   "title": "Holly Hunt Graduate Merit Scholarship Recipient",
-  "text": "<p><strong>What did you learn at SAIC that you carry with you today?</strong></p>  <p>Beth Nugent once told me, \"You can’t make people trust you, but you can make yourself trustworthy.\" I think about that a lot.</p>    <p><strong>Where do you find inspiration?</strong></p>  <p>I find inspiration by meditating on why it is that, in spite of everything, people are so nice to each other.</p>    <p><strong>Favorite artist growing up?</strong></p>  <p>Frida Kahlo knocked me out.</p>",
+  "text": "<p class='question'>What did you learn at SAIC that you carry with you today?</p>  <p>Beth Nugent once told me, \"You can’t make people trust you, but you can make yourself trustworthy.\" I think about that a lot.</p>    <p class='question'>Where do you find inspiration?</p>  <p>I find inspiration by meditating on why it is that, in spite of everything, people are so nice to each other.</p>    <p class='question'>Favorite artist growing up?</p>  <p>Frida Kahlo knocked me out.</p>",
   "filename": "dorsam.jpg"
 },
 {
   "name": "Norman Teague (MFA 2016)",
   "title": "Auction Artist",
-  "text": "<p><strong>What did you learn at SAIC that you carry with you today?</strong></p>  <p>It’s important to not follow trends, but to instill originality within all you do.</p>    <p><strong>What did your financial support as a student mean to you?</strong></p>  <p>The financing was substantial to my practice because it allowed me to reflect on my family, direction, and goals.</p>    <p><strong>Advice to your younger self?</strong></p>  <p>Do you! Take pride in your choices and execute.</p>",
+  "text": "<p class='question'>What did you learn at SAIC that you carry with you today?</p>  <p>It’s important to not follow trends, but to instill originality within all you do.</p>    <p class='question'>What did your financial support as a student mean to you?</p>  <p>The financing was substantial to my practice because it allowed me to reflect on my family, direction, and goals.</p>    <p class='question'>Advice to your younger self?</p>  <p>Do you! Take pride in your choices and execute.</p>",
   "quote":"Artists can make beauty that changes doubters into believers, and they can reveal ugly in new and inventive ways.",
   "filename": "teague.jpg"
 },
 {
   "name": "Paul T. Lambert",
   "title": "Board of Trustees",
-  "text": "<p><strong>Campaign outcome that you’re proud of?</strong></p>  <p>Making a solid investment in future talented young artists through the creation of the Bank of America Art Scholars.</p>    <p><strong>Favorite work at the Art Institute of Chicago?</strong></p>  <p>The Gauguin exhibit. He was in financial services and eventually pursued his passion for art later in life than most artists. Could this be me someday?</p>    <p><strong>What’s the best advice you received?</strong></p>  <p>Be curious in life. I enjoy art because it’s an expression of curiosity.</p>",
+  "text": "<p class='question'>Campaign outcome that you’re proud of?</p>  <p>Making a solid investment in future talented young artists through the creation of the Bank of America Art Scholars.</p>    <p class='question'>Favorite work at the Art Institute of Chicago?</p>  <p>The Gauguin exhibit. He was in financial services and eventually pursued his passion for art later in life than most artists. Could this be me someday?</p>    <p class='question'>What’s the best advice you received?</p>  <p>Be curious in life. I enjoy art because it’s an expression of curiosity.</p>",
   "filename": "lambert.jpg"
 },
 {
   "name": "Anne Wilson",
   "title": "Professor, Auction Artist",
-  "text": "<p><strong>Why practice art in Chicago?</strong></p>  <p>The support and community from other artists, galleries, curators, writers and collectors.</p>    <p><strong>Best thing about SAIC?</strong></p>  <p>One of the best things about teaching at SAIC is the opportunity to develop new curriculum that is directly responsive to current discourses in art and culture.</p>",
+  "text": "<p class='question'>Why practice art in Chicago?</p>  <p>The support and community from other artists, galleries, curators, writers and collectors.</p>    <p class='question'>Best thing about SAIC?</p>  <p>One of the best things about teaching at SAIC is the opportunity to develop new curriculum that is directly responsive to current discourses in art and culture.</p>",
   "filename": "wilson.jpg"
 },
 {
   "name": "Zoe Greenham (MFA 2017)",
   "title": "Kikeri-Sinha Travel Fellowship Recipient",
-  "text": "<p><strong>Describe your art practice.</strong></p>  <p>I am interested in material flows, global economies, and cultural practices that inform our relationships with material resources and connect us across the planet. My work includes sculpture, performance, drawing, and painting.</p>",
+  "text": "<p class='question'>Describe your art practice.</p>  <p>I am interested in material flows, global economies, and cultural practices that inform our relationships with material resources and connect us across the planet. My work includes sculpture, performance, drawing, and painting.</p>",
   "quote":"The Kikeri-Sinha Travel Fellowship allowed me to travel to India for the first time. I was able to draw inspiration from new experiences and consider the ideas and concepts I had been exploring in my work in a broader global context.",
   "filename": "greenham.jpg"
 },
 {
   "name": "Parvin Peivandi",
   "title": "Wilson/Livingstone Graduate Merit Fellowship Recipient",
-  "text": "<p><strong>Why did you choose SAIC?</strong></p>  I chose SAIC because of its interdisciplinary nature, diversity, and the great community of artists, art activists, and scholars.    <p><strong>Most adventurous thing you’ve done creatively?</strong></p>  <p>A performance in front of Trump Tower in Vancouver in the time of travel ban policy in the United States. It was exactly before my departure to the United States as an Iranian citizen.</p>    <p><strong>Best thing about living in Chicago?</strong></p>  <p>Living in a city of dynamic art and culture and a big community of supportive artists and scholars.</p>",
+  "text": "<p class='question'>Why did you choose SAIC?</p>  I chose SAIC because of its interdisciplinary nature, diversity, and the great community of artists, art activists, and scholars.    <p class='question'>Most adventurous thing you’ve done creatively?</p>  <p>A performance in front of Trump Tower in Vancouver in the time of travel ban policy in the United States. It was exactly before my departure to the United States as an Iranian citizen.</p>    <p class='question'>Best thing about living in Chicago?</p>  <p>Living in a city of dynamic art and culture and a big community of supportive artists and scholars.</p>",
   "quote":"My dream job is working as an artist and art activist: making art, exhibiting, being involved in community art practices, and teaching.",
   "filename": "peivandi.jpg"
 },
@@ -257,25 +257,25 @@
   "name": "Walter (HON 2018) and Shirley Massey",
   "title": "President Emeritus",
   "intro": "Walter and Shirley Massey arrived at SAIC in 2010 when Walter Massey was named president of the School. Together they helped initiate Beautiful/Work and inspire donors to give. He is now president emeritus of SAIC, having previously served as chancellor.",
-  "text": "<p><em>Shirley Massey</em></p>  <p><strong>What have the artists and designers at SAIC taught you?</strong></p>  <p>To look at things differently. We were staying in a hotel in Amsterdam, where our son lives, and I had never thought about the fact that somebody had to design the lighting, the chairs in hotel until after we came to SAIC.</p>    <p><strong>SAIC’s most significant contribution to Chicago?</strong></p>  <p>Having grown up here in Chicago, I think the venture in Homan Square [SAIC’s ongoing partnership with the North Lawndale community] is one of the most significant things the School has done for the city.</p>    <p><strong>Favorite work at the Art Institute of Chicago museum?</strong></p>  <p>Joseph Cornell’s boxes, which our neighbors many years ago had in their apartment. They would let our son play with the boxes, and now they’re sitting in the museum.</p>    <p><em>Walter Massey</em></p>  <p><strong>What have the artists and designers at SAIC taught you?</strong></p>  <p>The best artists and scientists have a lot of the same characteristics: creativity, openness, curiosity, and  an obsession with solving a problem.</p>    <p><strong>SAIC’s most significant contribution to Chicago?</strong></p>  <p>Having our faculty and graduate students work in schools. If you go to high schools or community colleges where they have art departments, more than likely a person or several people there are going to be SAIC alumni. We are sending these people out into the city to contribute in so many ways.</p>  <p><strong>Favorite work at the Art Institute of Chicago museum?</strong></p>  <p>I like the fact that you can see Ancient Greek and Roman artifacts and sculptures, and then you’ll see contemporary art. Generally, I like to wander around the whole museum.</p>",
+  "text": "<p><em>Shirley Massey</em></p>  <p class='question'>What have the artists and designers at SAIC taught you?</p>  <p>To look at things differently. We were staying in a hotel in Amsterdam, where our son lives, and I had never thought about the fact that somebody had to design the lighting, the chairs in hotel until after we came to SAIC.</p>    <p class='question'>SAIC’s most significant contribution to Chicago?</p>  <p>Having grown up here in Chicago, I think the venture in Homan Square [SAIC’s ongoing partnership with the North Lawndale community] is one of the most significant things the School has done for the city.</p>    <p class='question'>Favorite work at the Art Institute of Chicago museum?</p>  <p>Joseph Cornell’s boxes, which our neighbors many years ago had in their apartment. They would let our son play with the boxes, and now they’re sitting in the museum.</p>    <p><em>Walter Massey</em></p>  <p class='question'>What have the artists and designers at SAIC taught you?</p>  <p>The best artists and scientists have a lot of the same characteristics: creativity, openness, curiosity, and  an obsession with solving a problem.</p>    <p class='question'>SAIC’s most significant contribution to Chicago?</p>  <p>Having our faculty and graduate students work in schools. If you go to high schools or community colleges where they have art departments, more than likely a person or several people there are going to be SAIC alumni. We are sending these people out into the city to contribute in so many ways.</p>  <p class='question'>Favorite work at the Art Institute of Chicago museum?</p>  <p>I like the fact that you can see Ancient Greek and Roman artifacts and sculptures, and then you’ll see contemporary art. Generally, I like to wander around the whole museum.</p>",
   "filename": "massey.jpg"
 },
 {
   "name": "Walter and Shirley Massey Chicago Scholars",
-  "text": "<p><strong>Something only artists can do?</strong></p>  <p>Artists have the ability to express themselves in ways that others do not have access to. It is one of life’s greatest privileges. - Alejandra Vargas, Student</p>    <p><strong>Who at SAIC inspired or challenged your outlook?</strong></p>  <p>Martine Whitehead was such an inspiration to me. Seeing another Black woman teach a class focused on people of color and really explain race in the art world was huge for me. - Kiana Kimberly Parsons, Student</p>    <p><strong>Describe your art practice.</strong></p>  <p>I work between the Fiber and Material Studies and Fashion Design departments. It is informed by my background as an immigrant and my intense love and pride for my family and culture. - Whitney Hinojosa, Student</p>    <p><strong>Student What is your dream job?</strong></p>  <p>My dream job would be to manage and be an educator in my own community art center. - Moises Salazar</p>    <p><strong>Something only artists can do?</strong></p>  <p>Artists continue to engage with culture regardless of age. Even at 60+ years old, artists are still absorbing new media. - Nathaniel Knize (BA 2018)</p>    <p><strong>What did your scholarship mean in your life?</strong></p>  <p>It meant that the life I wanted was closer within my reach, and the grossly unequal playing field of the world was just a tad bit more level. - Amanda Mclin (BFA 2018)</p>    <p><strong>Why did you choose SAIC?</strong></p>  <p>SAIC’s interdisciplinary nature best fit my artistic practice and gave me a platform in which to fully express my desire to experiment both within and between mediums while encouraging me to develop the conceptual frame that defines my work. - Abdullah Quick, Student</p>    <p><strong>Who at SAIC inspired or challenged your outlook?</strong></p>  <p>Michael Ryan was my research teacher and constantly pushed me to do more with my art. I’d been afraid to take it in a bigger direction, but he believed in it. - Frida Paola Benitez, Student</p>    <p><strong>Most adventurous thing you’ve done creatively?</strong></p>  <p>On a family summer road trip that lasted seven weeks, I made a song for every state that we stayed in, which I recorded entirely on my phone. - Madeleine Aguilar, Student</p>",
+  "text": "<p class='question'>Something only artists can do?</p>  <p>Artists have the ability to express themselves in ways that others do not have access to. It is one of life’s greatest privileges. - Alejandra Vargas, Student</p>    <p class='question'>Who at SAIC inspired or challenged your outlook?</p>  <p>Martine Whitehead was such an inspiration to me. Seeing another Black woman teach a class focused on people of color and really explain race in the art world was huge for me. - Kiana Kimberly Parsons, Student</p>    <p class='question'>Describe your art practice.</p>  <p>I work between the Fiber and Material Studies and Fashion Design departments. It is informed by my background as an immigrant and my intense love and pride for my family and culture. - Whitney Hinojosa, Student</p>    <p class='question'>Student What is your dream job?</p>  <p>My dream job would be to manage and be an educator in my own community art center. - Moises Salazar</p>    <p class='question'>Something only artists can do?</p>  <p>Artists continue to engage with culture regardless of age. Even at 60+ years old, artists are still absorbing new media. - Nathaniel Knize (BA 2018)</p>    <p class='question'>What did your scholarship mean in your life?</p>  <p>It meant that the life I wanted was closer within my reach, and the grossly unequal playing field of the world was just a tad bit more level. - Amanda Mclin (BFA 2018)</p>    <p class='question'>Why did you choose SAIC?</p>  <p>SAIC’s interdisciplinary nature best fit my artistic practice and gave me a platform in which to fully express my desire to experiment both within and between mediums while encouraging me to develop the conceptual frame that defines my work. - Abdullah Quick, Student</p>    <p class='question'>Who at SAIC inspired or challenged your outlook?</p>  <p>Michael Ryan was my research teacher and constantly pushed me to do more with my art. I’d been afraid to take it in a bigger direction, but he believed in it. - Frida Paola Benitez, Student</p>    <p class='question'>Most adventurous thing you’ve done creatively?</p>  <p>On a family summer road trip that lasted seven weeks, I made a song for every state that we stayed in, which I recorded entirely on my phone. - Madeleine Aguilar, Student</p>",
   "filename": "group.jpg"
 },
 {
   "name": "Holly Hunt",
   "title": "Board of Governors, Co-Chair of Beautiful/Work Campaign",
-  "text": "<p><strong>Campaign outcome that surprised you?</strong></p>  <p>I was surprised and humbled by the immediate generosity and outpouring of giving from so many citizens of Chicago, from friends and firms, from SAIC alumni, into the campaign coffers.</p>    <p><strong>Something only artists can do?</strong></p>  <p>Artists are creative and think differently, and positive change and growth usually come from creative thinking and doing things differently, whether in business, in government or in producing art, or simply making a better life.</p>    <p><strong>How do art and design impact you?</strong></p>  <p>I did not major in art or in design in college but have been making things forever and early on began collecting art. Then unexpectedly, with a big change in my life and three sons, design became a career, which fortunately I have been able to tend and grow into a great business.</p>",
+  "text": "<p class='question'>Campaign outcome that surprised you?</p>  <p>I was surprised and humbled by the immediate generosity and outpouring of giving from so many citizens of Chicago, from friends and firms, from SAIC alumni, into the campaign coffers.</p>    <p class='question'>Something only artists can do?</p>  <p>Artists are creative and think differently, and positive change and growth usually come from creative thinking and doing things differently, whether in business, in government or in producing art, or simply making a better life.</p>    <p class='question'>How do art and design impact you?</p>  <p>I did not major in art or in design in college but have been making things forever and early on began collecting art. Then unexpectedly, with a big change in my life and three sons, design became a career, which fortunately I have been able to tend and grow into a great business.</p>",
   "quote":"I have been thrilled to see the campaign’s success coming in above plan in little more than a year with money all designated for students and faculty support.",
   "filename": "hunt.jpg"
 },
 {
   "name": "Joey Asal (MFA 2017)",
   "title": "Pritzker Graduate Fellowship Fund Recipient",
-  "text": "<p><strong>Describe your art practice.</strong></p> <p>Teach myself and others what we don’t know we don’t know.</p>",
+  "text": "<p class='question'>Describe your art practice.</p> <p>Teach myself and others what we don’t know we don’t know.</p>",
   "quote":"Transformation is a force of beauty.",
   "filename": "asal.jpg"
 },
@@ -283,7 +283,7 @@
   "name": "Robert and Diane v.S. Levy ",
   "title": "Chair, Board of Trustees of the Art Institute of Chicago",
   "intro": "Robert Levy is chairman and chief investment officer for U.S. Equities at Harris Associates LP and chairman of the Board of Trustees of the Art Institute of Chicago governing both the museum and the School. He and his wife, Diane v.S. Levy, have supported the School in many ways, including a $1 million donation to Beautiful/Work for need-based scholarships and a matching gift that helped push the campaign over its goal.",
-  "text": "<p><strong>Campaign outcome that surprised you?</strong></p>  <p>I was surprised how quickly we met our initial financial goal. This confirms the power of our campaign.</p>",
+  "text": "<p class='question'>Campaign outcome that surprised you?</p>  <p>I was surprised how quickly we met our initial financial goal. This confirms the power of our campaign.</p>",
   "quote":"SAIC world leadership is a result of the incredible talent of our faculty and students.",
   "filename": "levy.jpg"
 },
@@ -291,13 +291,13 @@
   "name": "Heidi Parkes (BFA 2005)",
   "title": "Alumni Leader",
   "intro": "Fiber artist and alum Heidi Parkes contributed to Beautiful/Work through the Annual Fund. With the support of SAIC’s Career and Professional Experience (CAPX), Parkes recently transitioned from her job as a public arts educator into the world of quilts, mending, social media marketing, and self-employment.",
-  "text": "<p><strong>Something only artists can do?</strong></p>  <p>As a [former] high school art teacher, I was uniquely positioned to teach students how to think creatively. Artists can do that better than anyone else.</p>    <p><strong>Best takeaway from a critique?</strong></p>  <p>I kept using fiber in my ceramics, metals, and drawing classes, and I finally listened to the best advice: take a fiber class. SAIC excels at encouraging students to work in a variety of mediums.</p>    <p><strong>￼￼￼￼￼Favorite way to decompress?</strong></p>  <p>At SAIC, I learned that cooking is one of the best ways to decompress. Making something ephemeral to nourish my body is a powerful contrast and support for artmaking.</p>  ",
+  "text": "<p class='question'>Something only artists can do?</p>  <p>As a [former] high school art teacher, I was uniquely positioned to teach students how to think creatively. Artists can do that better than anyone else.</p>    <p class='question'>Best takeaway from a critique?</p>  <p>I kept using fiber in my ceramics, metals, and drawing classes, and I finally listened to the best advice: take a fiber class. SAIC excels at encouraging students to work in a variety of mediums.</p>    <p class='question'>￼￼￼￼￼Favorite way to decompress?</p>  <p>At SAIC, I learned that cooking is one of the best ways to decompress. Making something ephemeral to nourish my body is a powerful contrast and support for artmaking.</p>  ",
   "filename": "parkes.jpg"
 },
 {
   "name": "Claire Ashley (MFA 1995)",
   "title": "Adjunct Associate Professor, Auction Artist",
-  "text": "<p><strong>Why does art matter?</strong></p>  <p>In our current political and global moment, art matters more than ever. It is a way of being hyper-observant, awake, and aware. Art is both poetic and abstract, political and critical. It reflects on the zeitgeist and engages in the vibrancy of life through an entirely different lense than most people get to use.</p>",
+  "text": "<p class='question'>Why does art matter?</p>  <p>In our current political and global moment, art matters more than ever. It is a way of being hyper-observant, awake, and aware. Art is both poetic and abstract, political and critical. It reflects on the zeitgeist and engages in the vibrancy of life through an entirely different lense than most people get to use.</p>",
   "source": "Chester Alamo Costello",
   "quote": "It is wonderfully gratifying for our large community of part-time faculty members to feel such substantial institutional support for the work we do.",
   "filename": "ashley.jpg"
@@ -305,14 +305,14 @@
 {
   "name": "David Raskin",
   "title": "Mohn Family Professor of Contemporary Art History",
-  "text": "<p><strong>What’s the best thing about teaching in Chicago?</strong></p>  <p>Talking about great works of art with my students while we stand in front of them in the Art Institute of Chicago.</p>",
+  "text": "<p class='question'>What’s the best thing about teaching in Chicago?</p>  <p>Talking about great works of art with my students while we stand in front of them in the Art Institute of Chicago.</p>",
   "quote":"Scholarships allow students the freedom from having financial considerations unduly determine the choices they make for their lives.",
   "filename": "raskin.jpg"
 },
 {
   "name": "Freddie Lambright III (BFA 2017)",
   "title": "Alumni Leader",
-  "text": "<p><strong>Describe your practice.</strong></p>  <p>My work rotates between scientific illustration, narrative based illustration, Black American art, and illustrations of my musical experiences.</p>    <p><strong>Favorite artist growing up?</strong></p>  <p>Joshua Mays is my favorite illustrator. Jill Scott and Janet Jackson were my favorite musical artists growing up.</p>    <p><strong>Something only artists can do?</strong></p>  <p>Artists are capable of changing culture and opening dialogue for difficult conversations through media that can be easily digested by a wide range of people.</p>",
+  "text": "<p class='question'>Describe your practice.</p>  <p>My work rotates between scientific illustration, narrative based illustration, Black American art, and illustrations of my musical experiences.</p>    <p class='question'>Favorite artist growing up?</p>  <p>Joshua Mays is my favorite illustrator. Jill Scott and Janet Jackson were my favorite musical artists growing up.</p>    <p class='question'>Something only artists can do?</p>  <p>Artists are capable of changing culture and opening dialogue for difficult conversations through media that can be easily digested by a wide range of people.</p>",
   "quote":"SAIC has given me the confidence that I am somebody who can be an influential member of society.",
   "filename": "lambright.jpg"
 },
@@ -320,7 +320,7 @@
   "name": "Anita Sinha",
   "title": "Chair, Board of Governors",
   "intro": "Anita Sinha is the first woman to serve as chair of SAIC’s Board of Governors and a long-time supporter of SAIC and the Art Institute of Chicago museum. Sinha and her husband, Prabhakant Sinha, established the Kikeri- Sinha Travel Scholarship, a need-based award that enables SAIC students to participate in faculty-led study trips.",
-  "text": "<p><strong>How do art and design impact you?</strong></p>  <p>Art and design enrich my life with meaning, beauty, and humanity every day. Without art and design, my life would feel black and white; they fill it with technicolor vitality.</p>",
+  "text": "<p class='question'>How do art and design impact you?</p>  <p>Art and design enrich my life with meaning, beauty, and humanity every day. Without art and design, my life would feel black and white; they fill it with technicolor vitality.</p>",
   "quote":"Art and science can overlap; art and entrepreneurship can coexist; and our artists’ and designers’ work is not separate from the society and culture they live in. Our citizen artists engage their audiences to become more informed, empathetic, and responsible citizens.",
   "filename": "sinha.jpg"
 }
