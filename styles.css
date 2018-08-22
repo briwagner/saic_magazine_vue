@@ -39,29 +39,22 @@
 .grid-featured {
   display: flex;
   flex-flow: row wrap;
-
-}
-
-.featured-text {
-  width: 65%;
-}
-
-.featured-title {
-  width: 33%;
+  width: 99%;
 }
 
 .grid-featured .featured-title {
+  width: 100%;
   float: left;
-  margin-right: 1em;
+  padding: 0px 12px;
+  background: #eee;
+  margin-right: 0;
 }
 
 .grid-featured .featured-text {
-  column-count: 2;
-}
-
-.row-text h4,
-.row-text p {
-  padding: .5em 1.5em 1em;
+  column-count: 1;
+  width: 100%;
+  padding: 10px 12px 20px;
+  border: 1px solid #e8e8e8;
 }
 
 .landscape-row {
@@ -135,6 +128,10 @@
     margin: 0px;
 }
 
+.grid-featured .featured-text p {
+  max-width: 80%;
+}
+
 .portrait-row .row-img,
 .portrait-row .row-text,
 .landscape-row .row-img,
@@ -159,29 +156,6 @@
   display: inline-block;
   font-size: .9em;
   padding: 4px 6px;
-}
-
-.grid-featured {
-  width: 99%;
-}
-
-.grid-featured .featured-title {
-    width: 100%;
-    float: left;
-    padding: 0px 12px;
-    background: #eee;
-        margin-right: 0;
-}
-
-.grid-featured .featured-text {
-    column-count: 1;
-    width: 100%;
-    padding: 10px 12px 20px;
-    border: 1px solid #e8e8e8;
-}
-
-.grid-featured .featured-text p {
-    max-width: 80%;
 }
 
 .portrait-row, .landscape-row, .grid-container, .half-row {
