@@ -7,7 +7,7 @@ Vue.use(VueProgressiveImage);
 
 let rawData = data.people;
 
-rawData.map((x) => x.filename = 'images/' + x.filename)
+rawData.map((x) => x.filename = '/sites/default/files/custom_elements/magazFall2018/images/' + x.filename)
 
 const ImageGrid = {
   name: 'image-grid',
