@@ -1,5 +1,9 @@
 import data from './rawData.json';
 import css from './styles.css';
+import Vue from './node_modules/vue/dist/vue';
+import VueProgressiveImage from './node_modules/vue-progressive-image/dist/vue-progressive-image';
+
+Vue.use(VueProgressiveImage);
 
 let rawData = data.people;
 
@@ -56,17 +60,18 @@ const ImageGrid = {
 // 80-20 item
 const LandscapeRow = {
   name: 'landscape-row',
-  props: ['item', 'position'],
-  data() {
-    return {
-      position: 'left'
+  props: {
+    item: Object,
+    position: {
+      type: String,
+      default: 'left'
     }
   },
   template:`
   <div class="landscape-row">
     <div v-if="position != 'right'"
          class="row-img">
-      <img v-bind:src="item.filename" />
+      <progressive-img v-bind:src="item.filename" />
     </div>
     <div class="row-text">
       <h4>{{item.name}}</h4>
@@ -77,7 +82,7 @@ const LandscapeRow = {
     </div>
     <div v-if="position == 'right'"
          class="row-img">
-      <img v-bind:src="item.filename" />
+      <progressive-img v-bind:src="item.filename" />
     </div>
   </div>
   `
@@ -86,17 +91,18 @@ const LandscapeRow = {
 // 50-50 item
 const HalfHalfRow = {
   name: 'half-half-row',
-  props: ['item', 'position'],
-  data() {
-    return {
-      position: 'left'
+  props: {
+    item: Object,
+    position: {
+      type: String,
+      default: 'left'
     }
   },
   template: `
   <div class="half-row">
     <div v-if="position != 'right'"
          class="row-img">
-      <img v-bind:src="item.filename" />
+      <progressive-img v-bind:src="item.filename" />
     </div>
     <div class="row-text">
       <h4>{{item.name}}</h4>
@@ -107,7 +113,7 @@ const HalfHalfRow = {
     </div>
     <div v-if="position == 'right'"
          class="row-img">
-      <img v-bind:src="item.filename" />
+      <progressive-img v-bind:src="item.filename" />
     </div>
   </div>
   `
@@ -116,16 +122,17 @@ const HalfHalfRow = {
 // Portrait height row
 const PortraitRow = {
   name: 'portrait-row',
-  props: ['item', 'position'],
-  data() {
-    return {
-      position: 'left'
+  props: {
+    item: Object,
+    position: {
+      type: String,
+      default: 'left'
     }
   },
   template: `
   <div class="portrait-row">
     <div class="row-img">
-      <img v-bind:src="item.filename" />
+      <progressive-img v-bind:src="item.filename" />
     </div>
     <div class="row-text">
       <h4>{{item.name}}</h4>
