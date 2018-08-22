@@ -113,3 +113,150 @@
 .img-source {
   font-size: .8em;
 }
+
+
+/* ADDED */
+
+
+.mag-wrapper {
+    font-size: 12px;
+    padding: 20px 0px;
+    max-width: 860px;
+    margin: 0 auto;
+}
+
+.mag-wrapper h4 {
+    font-size: 1.6em;
+    padding:0px;
+    padding-bottom: 5px;
+}
+
+.mag-wrapper p {
+    padding: .2em 0em 1em;
+    margin: 0px;
+}
+
+.mag-wrapper .image-source {
+    font-size: .95em;
+    color: #a5a5a5;
+}
+
+.portrait-row, .half-row {
+    width: 90%;
+    margin: 0 5%;
+}
+
+.row-text h4, .row-text p {
+    margin: 0px;
+}
+
+.portrait-row .row-img, .portrait-row .row-text, .landscape-row .row-img, .landscape-row .row-text, .half-row .row-img, .half-row .row-text {
+    width: 48%;
+    margin: 0 1% 0px;
+}
+
+.grid-container {
+    width: 98%;
+    margin: 0 1%;
+}
+
+.grid-item {
+    position: relative;
+}
+
+.grid-item.active {
+    border: 1px solid #7e7e7e;
+    box-shadow: inset 1px 1px 55px -2px #878282;
+    border-bottom: 2px solid #ee4aa9;
+}
+
+.grid-container p.img-source {
+    padding: 5px 12px;
+}
+
+.grid-item p {
+    position: absolute;
+    top: unset;
+    bottom: 8px;
+    left: 8px;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    display: inline-block;
+    font-size: .9em;
+}
+
+.grid-featured .featured-title {
+    width: 100%;
+    float: left;
+    padding: 0px 12px;
+    background: #eee;
+}
+
+.grid-featured .featured-text {
+    column-count: 1;
+    width: 100%;
+    padding: 10px 12px 20px;
+    border: 1px solid #e8e8e8;
+}
+
+.grid-featured .featured-text p {
+    max-width: 80%;
+}
+
+.portrait-row, .landscape-row, .grid-container, .half-row {
+    margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 767px) {
+
+  .portrait-row, .landscape-row, .grid-container, .half-row{
+      width:98%;
+      margin:0 1% 40px;
+  }
+
+  .portrait-row .row-img, .portrait-row .row-text, .landscape-row .row-img, .landscape-row .row-text, .half-row .row-img, .half-row .row-text {
+      width: 100%;
+  }
+
+  .portrait-row .row-img, .landscape-row .row-img, .half-row .row-img {
+      margin-bottom: 20px;
+  }
+
+  .grid-item {
+    width: 50%;
+    height: 350px;
+    background-size: cover;
+  }
+
+
+
+}
+
+@media only screen and (max-width: 479px) {
+
+.portrait-row, .landscape-row, .grid-container, .half-row {
+    width: 90%;
+    margin: 0 5% 40px;
+}
+
+
+  .portrait-row .row-img, .portrait-row .row-text, .landscape-row .row-img, .landscape-row .row-text, .half-row .row-img, .half-row .row-text {
+      width: 100%;
+  }
+
+  .portrait-row .row-img, .landscape-row .row-img, .half-row .row-img {
+      margin-bottom: 20px;
+  }
+
+  .grid-item {
+    width: 100%;
+    height: 300px;
+  }
+
+
+
+}
+
+
+
+
