@@ -51,7 +51,7 @@ const ImageGrid = {
       <div class="featured-title">
         <h4>{{ featuredItem.name }}</h4>
         <p class="personal-title">{{ featuredItem.title }}</p>
-        <p class="image-source" v-if="featuredItem.source">Source: {{featuredItem.source}}</p>
+        <p class="image-source" v-if="featuredItem.source">Photo: {{featuredItem.source}}</p>
       </div>
       <div v-html="featuredItem.text" class="featured-text"> </div>
     </div>
@@ -78,7 +78,7 @@ const LandscapeRow = {
         {{item.title}}
         </p>
         <p class="quote-block" v-if="item.quote">{{item.quote}}</p>
-        <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
+        <p class="image-source" v-if="item.source">Photo: {{item.source}}</p>
       </div>
       <div class="featured-text">
         <div v-html="item.text"> </div>
@@ -109,7 +109,7 @@ const HalfHalfRow = {
       <p class="personal-title">{{item.title}}</p>
       <p class="quote-block">{{item.quote}}</p>
       <div v-html="item.text"> </div>
-      <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
+      <p class="image-source" v-if="item.source">Photo: {{item.source}}</p>
     </div>
     <div v-if="position == 'right'"
          class="row-img">
@@ -142,7 +142,7 @@ const PortraitRow = {
       </p>
       <p class="quote-block">{{item.quote}}</p>
       <div v-html="item.text"> </div>
-      <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
+      <p class="image-source" v-if="item.source">Photo: {{item.source}}</p>
     </div>
   </div>
   `
