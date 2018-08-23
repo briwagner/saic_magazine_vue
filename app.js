@@ -61,30 +61,25 @@ const LandscapeRow = {
   name: 'landscape-row',
   props: {
     item: Object,
-    position: {
-      type: String,
-      default: 'left'
-    }
   },
   template:`
   <div class="landscape-row">
-    <div v-if="position != 'right'"
-         class="row-img">
+    <div class="row-img">
       <progressive-img v-bind:src="item.filename" />
     </div>
     <div class="row-text">
-      <h4>{{item.name}}</h4>
-      <p v-if="item.title"
-         class="personal-title">
-         {{item.title}}
-      </p>
-      <p class="quote-block">{{item.quote}}</p>
-      <div v-html="item.text"> </div>
-      <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
-    </div>
-    <div v-if="position == 'right'"
-         class="row-img">
-      <progressive-img v-bind:src="item.filename" />
+      <div class="featured-title">
+        <h4>{{item.name}}</h4>
+        <p v-if="item.title"
+        class="personal-title">
+        {{item.title}}
+        </p>
+        <p class="quote-block">{{item.quote}}</p>
+        <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
+      </div>
+      <div class="featured-text">
+        <div v-html="item.text"> </div>
+      </div>
     </div>
   </div>
   `
@@ -252,7 +247,7 @@ const App = {
     <half-half-row :item="rawData[23]" />
     <half-half-row :item="rawData[24]" :position="'right'"/>
     <portrait-row :item="rawData[25]" />
-    <landscape-row :item="rawData[29]" :position="'right'"/>
+    <landscape-row :item="rawData[29]" />
     <image-grid :gridItems="thirdGrid" />
     <portrait-row :item="rawData[36]" />
     <selector-row :item="rawData[37]" :options="rawData[37].options"/>

@@ -80,27 +80,19 @@
 }
 
 .grid-featured .featured-title,
+.landscape-row .featured-title,
 .selector-row .selector-selected {
   width: 100%;
-  float: left;
   padding: 0px 12px;
-  background: #eee;
+  background-color: #eee;
   margin-right: 0;
 }
 
-.grid-featured .featured-text {
-  column-count: 1;
+.grid-featured .featured-text,
+.landscape-row .featured-text{
   width: 100%;
-  padding: 10px 12px 20px;
+  padding: 10px 12px;
   border: 1px solid #e8e8e8;
-}
-
-.landscape-row .row-img {
-  width: 70%;
-}
-
-.landscape-row .row-text {
-  width: 30%;
 }
 
 .half-row .row-img,
@@ -116,6 +108,22 @@
 .portrait-row .row-img,
 .portrait-row .row-text {
   width: 50%;
+}
+
+.portrait-row .row-img,
+.portrait-row .row-text,
+.half-row .row-img,
+.half-row .row-text {
+    width: 48%;
+    margin: 0 1% 0;
+}
+
+.landscape-row .row-img,
+.landscape-row .row-text {
+  width: 100%;
+  margin: 0 1% 0;
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .selector-list ul.selector-list-options {
@@ -154,6 +162,11 @@
   padding-bottom: 5px;
 }
 
+.featured-title h4 {
+  margin-top: 0;
+  padding-top: 1rem;
+}
+
 .mag-wrapper p {
   padding: .2em 0em 1em;
   margin: 0px;
@@ -170,18 +183,9 @@
     margin: 0px;
 }
 
-.grid-featured .featured-text p {
+.grid-featured .featured-text p,
+.landscape-row .row-text p {
   max-width: 80%;
-}
-
-.portrait-row .row-img,
-.portrait-row .row-text,
-.landscape-row .row-img,
-.landscape-row .row-text,
-.half-row .row-img,
-.half-row .row-text {
-    width: 48%;
-    margin: 0 1% 0px;
 }
 
 .grid-container p.img-source {
