@@ -42,7 +42,6 @@ const ImageGrid = {
            class="grid-item"
            v-bind:class="{active: isActive(item)}"
            v-bind:style="{backgroundImage: 'url(' + item.filename + ')' }">
-        <p class="img-source" v-if="item.source">{{ item.source }}</p>
       </div>
     </div>
     <div class="grid-featured" v-show="featuredItem">
