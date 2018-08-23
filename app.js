@@ -36,6 +36,9 @@ const ImageGrid = {
   },
   template: `
   <div class="grid-container">
+    <div class="grid-message">
+      <p><em>Click an image below to view more</em></p>
+    </div>
     <div class="image-grid">
       <div v-for="(item, index) in gridItems"
            v-on:click="makeFeatured(index)"
@@ -74,7 +77,7 @@ const LandscapeRow = {
         class="personal-title">
         {{item.title}}
         </p>
-        <p class="quote-block">{{item.quote}}</p>
+        <p class="quote-block" v-if="item.quote">{{item.quote}}</p>
         <p class="image-source" v-if="item.source">Source: {{item.source}}</p>
       </div>
       <div class="featured-text">
@@ -237,7 +240,7 @@ const App = {
   },
   template: `
   <div>
-    <portrait-row :item="rawData[0]" />
+    <landscape-row :item="rawData[0]" />
     <landscape-row :item="rawData[1]" />
     <half-half-row :item="rawData[2]" :position="'right'"/>
     <image-grid :gridItems="firstGrid" />
@@ -249,7 +252,7 @@ const App = {
     <portrait-row :item="rawData[25]" />
     <landscape-row :item="rawData[29]" />
     <image-grid :gridItems="thirdGrid" />
-    <portrait-row :item="rawData[36]" />
+    <landscape-row :item="rawData[36]" />
     <selector-row :item="rawData[37]" :options="rawData[37].options"/>
     <image-grid :gridItems="fourthGrid" />
     <half-half-row :item="rawData[44]" />

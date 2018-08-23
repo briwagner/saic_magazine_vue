@@ -88,6 +88,10 @@
   margin-right: 0;
 }
 
+.landscape-row .featured-title {
+  padding-bottom: 10px;
+}
+
 .grid-featured .featured-text,
 .landscape-row .featured-text{
   width: 100%;
@@ -192,6 +196,12 @@
     padding: 5px 12px;
 }
 
+.grid-message p {
+  color: #666;
+  font-size: 1em;
+  padding-bottom: .5em;
+}
+
 .grid-item p {
   position: absolute;
   top: unset;
@@ -216,7 +226,7 @@ p.personal-title {
 p.quote-block {
   font-style: italic;
   line-height: 1.7em;
-  padding: 5px 25px;
+  padding: 5px 25px 10px;
 }
 
 @media only screen and (max-width: 767px) {
