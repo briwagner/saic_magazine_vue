@@ -118,8 +118,11 @@
   width: 50%;
 }
 
-.selector-list-options {
+.selector-list ul.selector-list-options {
   list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  margin-left: 2px !important;
   padding: 0;
 }
 
@@ -129,7 +132,7 @@
   border: 1px solid #7e7e7e;
   border-radius: 4px;
   margin: 1%;
-  padding: 8px 5px;
+  padding: 8px 2px;
   text-align: center;
   font-size: .85em;
 }
