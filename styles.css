@@ -178,8 +178,9 @@
 }
 
 .mag-wrapper .image-source {
-    font-size: .95em;
-    color: #a5a5a5;
+  font-size: .95em;
+  color: #a5a5a5;
+  padding-bottom: 1em;
 }
 
 .row-text h4,
